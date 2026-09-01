@@ -1,0 +1,4 @@
+solari-browser>=0.1.2
+solari-sandbox>=0.1.2
+patchright==1.62.2    # Solari's pool hosts both 1.59 and 1.62; pin to whatever
+                      # version your smoke test lands on.
